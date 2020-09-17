@@ -1,2 +1,2 @@
 # DragonDB
-DragonDb.
+Document store.
